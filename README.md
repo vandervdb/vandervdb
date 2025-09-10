@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arnaud Vanderbecq  
+# 👋 Hi, I'm Arnaud  
 
 🚀 **Mobile Developer** with strong expertise in **Kotlin Multiplatform, React Native and Android**.  
 Passionate about building cross-platform apps with high performance, clean architecture, and smooth CI/CD.  
@@ -35,6 +35,7 @@ Passionate about building cross-platform apps with high performance, clean archi
 ### CI/CD & DevOps
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge)
 ![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?logo=fastlane&logoColor=white&style=for-the-badge)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FCA121?logo=gitlab&logoColor=white&style=for-the-badge)
 ![Bitrise](https://img.shields.io/badge/-Bitrise-683D87?logo=bitrise&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 
