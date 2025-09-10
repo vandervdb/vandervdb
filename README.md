@@ -28,9 +28,14 @@ Passionate about building cross-platform apps with high performance, clean archi
 ### Frameworks & Tools
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white&style=for-the-badge)
 ![Appium](https://img.shields.io/badge/-Appium-663399?logo=appium&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![MockK](https://img.shields.io/badge/-MockK-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Mockito](https://img.shields.io/badge/-Mockito-FF6F00?logo=java&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ### CI/CD & DevOps
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge)
