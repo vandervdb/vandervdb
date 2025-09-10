@@ -1,4 +1,15 @@
-## 🚀 Skills
+# 👋 Hi, I'm Arnaud Vanderbecq  
+
+🚀 **Mobile Developer** with strong expertise in **Kotlin Multiplatform, React Native and Android**.  
+Passionate about building cross-platform apps with high performance, clean architecture, and smooth CI/CD.  
+
+- 🌱 Exploring **modern mobile architectures & DevOps pipelines**  
+- 💬 Ask me about **React Native, Kotlin, Android, CI/CD, Firebase, or App optimization**  
+- 🕑 Timezone: **Europe/Paris (GMT+2)**  
+
+---
+
+## 🚀 Skills  
 
 ### Mobile & Cross-platform
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -26,3 +37,17 @@
 ![Fastlane](https://img.shields.io/badge/-Fastlane-00F200?logo=fastlane&logoColor=white&style=for-the-badge)
 ![Bitrise](https://img.shields.io/badge/-Bitrise-683D87?logo=bitrise&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Arnaud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandervdb&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandervdb&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arnaud-vanderbecq)  
+📩 **Email** : arnaud.vander@proton.me
