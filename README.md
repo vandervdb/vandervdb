@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arnaud  
+# 👋 Hi 
 
 🚀 **Mobile Developer** with strong expertise in **Kotlin Multiplatform, React Native and Android**.  
 Passionate about building cross-platform apps with high performance, clean architecture, and smooth CI/CD.  
