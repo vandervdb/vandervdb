@@ -36,6 +36,13 @@ Passionate about building cross-platform apps with high performance, clean archi
 ![MockK](https://img.shields.io/badge/-MockK-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Mockito](https://img.shields.io/badge/-Mockito-FF6F00?logo=java&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Hilt](https://img.shields.io/badge/-Hilt-CC0000?logo=android&logoColor=white&style=for-the-badge)
+![Koin](https://img.shields.io/badge/-Koin-0062FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Turborepo](https://img.shields.io/badge/-Turborepo-000000?logo=turborepo&logoColor=white&style=for-the-badge)
+![Nx](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white&style=for-the-badge)
+![Realm](https://img.shields.io/badge/-Realm-39477F?logo=realm&logoColor=white&style=for-the-badge)
+![Ktor](https://img.shields.io/badge/-Ktor-0095D5?logo=ktor&logoColor=white&style=for-the-badge)
+![Room](https://img.shields.io/badge/-Room-1976D2?logo=android&logoColor=white&style=for-the-badge)
 
 ### CI/CD & DevOps
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge)
