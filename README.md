@@ -1,10 +1,11 @@
 # 👋 Hi 
 
-🚀 **Mobile Developer** with strong expertise in **Kotlin Multiplatform, React Native and Android**.  
+🚀 **Mobile Developer** with strong expertise in **React Native, Kotlin Multiplatform, Android**, and **Unity/AR with high-precision GNSS positioning**.  
 Passionate about building cross-platform apps with high performance, clean architecture, and smooth CI/CD.  
 
+- 🥽 Currently building **AR apps with Unity**, high-precision GNSS positioning & 3D rendering  
 - 🌱 Exploring **modern mobile architectures & DevOps pipelines**  
-- 💬 Ask me about **React Native, Kotlin, Android, CI/CD, Firebase, or App optimization**  
+- 💬 Ask me about **React Native, Kotlin, Android, Unity/AR, CI/CD, Firebase, or App optimization**  
 - 🕑 Timezone: **Europe/Paris (GMT+2)**  
 
 ---
@@ -17,11 +18,18 @@ Passionate about building cross-platform apps with high performance, clean archi
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 
+### AR & Geospatial
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
+![AR Foundation](https://img.shields.io/badge/-AR%20Foundation-000000?logo=unity&logoColor=white&style=for-the-badge)
+![GNSS](https://img.shields.io/badge/-High%20Precision%20GNSS-4B8BBE?logo=googlemaps&logoColor=white&style=for-the-badge)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-2C7AC3?logo=esri&logoColor=white&style=for-the-badge)
+
 ### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apachegroovy&logoColor=white&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 
