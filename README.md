@@ -61,11 +61,6 @@ Passionate about building cross-platform apps with high performance, clean archi
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandervdb&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with me
 
